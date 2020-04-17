@@ -1,7 +1,7 @@
 # ADDO-Notes
-Notes from the 2020 ADDO Conference
+Notes from the [2020 ADDO Conference](https://www.alldaydevops.com/2020-live-schedule)
 
-## Talks
+## Talks I listened to...
 - [integrating-your-toolchain](integrating-your-toolchain.md)
 - [overcoming-intertia-at-scale](overcoming-intertia-at-scale.md)
 - [the-air-force-awakens](the-air-force-awakens.md)
