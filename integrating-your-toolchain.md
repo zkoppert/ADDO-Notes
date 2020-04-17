@@ -24,4 +24,4 @@ Jamal Walsh - The Very Group
 - always, always, always
 
 #### Consider Security when building the pipeline
-- Consider DREAD or STRIDE methods
+- Consider [DREAD](https://en.wikipedia.org/wiki/DREAD_(risk_assessment_model)) or [STRIDE](https://en.wikipedia.org/wiki/STRIDE_(security)) methods
